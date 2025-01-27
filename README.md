@@ -4,18 +4,20 @@ Welcome to the CloudXact Policies repository. This repository contains all the e
 
 ## Policies Overview
 
-- **[Organization Regulations](organization-regulations.md)**: Defines the internal regulations, operational principles, and decision-making processes for CloudXact as a company.
+- **[Organizational Regulations](organizational-regulations.md)**: Defines the internal regulations, operational principles, and decision-making processes for CloudXact as a company.
 - **[Terms of Service](terms.md)**: Defines the terms and conditions for using CloudXact's services, including user responsibilities and limitations of liability.
 - **[Privacy Policy](privacy-policy.md)**: Describes how CloudXact collects, uses, processes, and protects personal information.
 - **[Cookie Policy](cookie-policy.md)**: Outlines how CloudXact uses cookies and other tracking technologies on its websites and services.
+- **[Employee Recruitment Guidelines](employee-recruitment.md)**: Specifies the process for applying to join CloudXact as an employee, including the application process, probationary period, and evaluation criteria.
 - **[Company Information](company-information.md)**: Provides official company details including legal registration, office location, and business activity.
 
 ## Table of Contents
 
-- [Organization Regulations](organization-regulations.md)
+- [Organizational Regulations](organizational-regulations.md)
 - [Terms of Service](terms.md)
 - [Privacy Policy](privacy-policy.md)
 - [Cookie Policy](cookie-policy.md)
+- [Employee Recruitment Guidelines](employee-recruitment.md)
 - [Company Information](company-information.md)
 
 ## Purpose of This Repository
@@ -28,7 +30,7 @@ These documents are subject to periodic updates to ensure compliance with evolvi
 
 ### Policy Documents
 
-1. **[Organization Regulations](organization-regulations.md)**  
+1. **[Organizational Regulations](organizational-regulations.md)**  
    This document outlines CloudXact's internal governance, including how the company makes decisions, manages operations, and ensures compliance with both external regulations and internal ethical standards.
 
 2. **[Terms of Service](terms.md)**  
@@ -40,7 +42,10 @@ These documents are subject to periodic updates to ensure compliance with evolvi
 4. **[Cookie Policy](cookie-policy.md)**  
    Our Cookie Policy explains how we use cookies and similar technologies to collect data for improving user experience, performance analysis, and personalization. It also explains how you can manage your cookie preferences.
 
-5. **[Company Information](company-information.md)**  
+5. **[Employee Recruitment Guidelines](employee-recruitment.md)**  
+   This document defines the process for potential candidates to apply for employment at CloudXact. It includes the application process, expectations during the probationary period, and the evaluation criteria for new hires.
+
+6. **[Company Information](company-information.md)**  
    This document provides the legal and business information of CloudXact Ltd., including the registered office, company number, and the business activities we undertake.
 
 ## Contact
