@@ -27,6 +27,6 @@
 
 ### 聯繫我們
 
-如果您對我們的 Cookie 政策或隱私保護措施有任何疑問或顧慮，歡迎隨時與我們聯繫。我們將竭誠為您解答：
+如果您對我們的 Cookie 政策或隱私保護措施有任何疑問或顧慮，歡迎隨時與我們聯繫：
 
 - **電子郵件**：[privacy@cloudxact.com](mailto:privacy@cloudxact.com)
