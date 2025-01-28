@@ -39,7 +39,7 @@ CloudXact 一向高度重視您的隱私，並致力於採取最嚴謹的措施�
    - (c) 預計連結的頁面及其具體描述；
    - (d) 連結目的及其與 CloudXact 業務或服務的相關性。
 
-   請將上述資訊發送至 [privacy@cloudxact.com](mailto:privacy@cloudxact.com)。
+   請將上述資訊發送至 [privacy@cloudxact.com](mailto:privacy@cloudxact.com)  
    我們將在收到申請後進行審核，並在最慢兩週內與您聯繫確認審核結果。
 
 ## 第三章 隱私與版權保護
